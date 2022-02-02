@@ -1,5 +1,5 @@
 ---
-title : "My first blog post"
+title : "Git blog"
 category :
 - Minji
 tag :
