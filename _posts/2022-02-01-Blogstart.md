@@ -23,3 +23,10 @@ toc : true
 
 참고한 블로그
 - [기록하는 개발자 Blog](https://honbabzone.com/jekyll/start-gitHubBlog/)
+
+## Jekyll serve post 404
+> post 파일명 한글 -> 영어
+왜..?
+
+## utterances
+적용이 안되고 있음.
